@@ -21,7 +21,7 @@ let articulos = [
       id: 4,
       nombre: 'HP',
       precio: 15800,
-      imagen: './img/HP.jpg'
+      imagen: './img/hp.jpg'
   },
   {
       id: 5,
